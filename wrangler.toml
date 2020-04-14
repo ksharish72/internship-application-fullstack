@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "loadbalancer"
 type = "javascript"
-account_id = ""
+account_id = "4f0d52a2a4ba15ca3935a6f0381612b8"
 workers_dev = true
 route = ""
 zone_id = ""
